@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Designing Data-Intensive Applications"
 author: "Author Name"
 status: "reading" # options: reading, finished

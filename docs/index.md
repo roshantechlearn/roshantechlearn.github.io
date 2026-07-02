@@ -4,6 +4,7 @@ title: Home
 ---
 
 <!-- Detailed Professional Biography Profile Section -->
+<!--
 <section class="bio-container">
   <h1 class="hero-greeting">Hey, I am {{ site.title }}</h1>
   <div class="bio-text">
@@ -17,7 +18,25 @@ title: Home
       // Core Stack: JDK • Scala • Akka • Apache Spark • Hive • Impala
     </div>
   </div>
+</section>-->
+
+<section class="bio-container">
+  <h1 class="hero-greeting">Hey, I am {{ site.title }}</h1>
+  
+  <div class="bio-text">
+    <p>
+      I engineer backend systems, distributed databases, and high-throughput infrastructure. Always building, optimizing bottlenecks, and writing about low-level systems.
+    </p>
+    <p>
+      Currently deep-diving into JVM internals, reactive cluster topographies, and data streaming architectures at scale.
+    </p>
+    
+    <div class="tech-stack-tags">
+      // Core Stack: Java • Scala • Akka • Apache Spark • Hive • Impala
+    </div>
+  </div>
 </section>
+
 
 <!-- Content Collections Section Layers -->
 <section id="blogs">
